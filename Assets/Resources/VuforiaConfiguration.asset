@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
-    ufoLicenseKey: QVhiM0Y1Ly8vLy8vQUFBQUtPbnFIeHJFSGs1N3VrMlg4U050eVBzK2pkOFZxMDhrazlwYjBsYS9aZUIxQlV1ckZWcWt0ZllSQWpnT2tIRlY2VzdOMDRTRjNYRUhmbTF5L1BnYlB4eWdHWEF6RUNheXowc3dyNVNYa2ozdERuRjhka1FpOHRscHdkMDcrcEJEY1FjTjNJcUM1bEgwOTYzQkdZdjRsQStRb0hSQU9nRGthelp5TlY0WHVwWU9EaE05NWw5bXAzbnBDMjM5MWZBWXBFdEdiL2loTDNab3N4b25ZblhjK1JtSS9wLzRoTDIwVGhmTXR6WFJNYkpUTXZLZzJoQ0N0TEJXNEptZ0pSOUtSdStzQWM3QjVNOWFFMGVHQ1dUT1VRSUUweEpiZC9ZL2cvS29iNDhBRXdQOGFwbWR5NmRWU0FHU2psVzRZY2FEU2Zud3J1ZHhucVNmSUZiajNTUnIzM0lKVlFIaW1rL0oyOGNFeDdyekcySXg=
+    vuforiaLicenseKey: Abrk01j/////AAABmX8NwlJBxUUKqsATORwseHdClKEGzG93TVWcTniltjmFfbi9UQ9+z0rO5bSw0Llw+x8V0G1CVHrHxgSq4j6cw95Y/cgELwirNBaq9uDCauo0fI5fPsLekwRhj9RYU2QVRKtfr9hahQOM/gjuQ+G64DySpl2mXTJJeUaj6Uek12xgAbv/OLcvEf/2QW0jBffiDtUYi3K3W7Pmxbw3QsAE52UcOH6h3ah97jbk7DOdhLMxtzEH2ihN8lSBgD0yDquJeCQncI+wd22eMVdN9wvE/416Ecm6IBn03nA/bRKCdawfkubyU+cbtgAQ9ypgsERMD262zQT9gE3rxqQVhq+qAT1IeE23qrqRywSYnz2gaAHB
+    ufoLicenseKey: QWZNRm11VC8vLy8vQUFBQUtJMUNUU2VJVWtsbGlxOFo5bktvdWRoL29zSlhXSTk3Z2lqcXZLcVM1MDI2dnFyYWtmWnBLVVM3dHIxQXlxZXhKZGd3UGU2K2VyUGFUUmJpRGNnelNHK0QwbVdHUU14dytJYkhyZkxWdDRuNVpGT241alJTWmRCSlZUK0l2WGR0UHF1MlNXR3NMRFBYeHkySXhuT1Y3U1JGQTd1ZGlDUWYxTVl2MDdhaU4wdjBhenRCZlJPQUZPQ0VxRWRJRmh3V1IrTWpzN2NIZVprSTFnK1c5MmEzRFVoUDVMVkxYNW9HNHBvazZ4SGFQQkZrdXdGM1B3eDRhSStBV0psUUV6Zm1iazliR2pqZjlabmkzSmE5NGxZTDRpbmtKOGRPYXVLeWFRZlZsWm1jMGlGS1BxdDExbHFkMDNSY3VaM1dpUjRSRXBiSlJ4THFBMjF0MHo2Mk9pWXprZFR3QnJ4K09VNlZuU2JaSFNzTmlCVjY=
     delayedInitialization: 0
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -1
@@ -23,8 +23,8 @@ MonoBehaviour:
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 0
     logLevel: 0
-    version: 10.0.2
-    eulaAcceptedVersions: '{"Values":[""]}'
+    version: 10.16.5
+    eulaAcceptedVersions: '{"Values":["","7.1","7.2","8.1","8.3","8.6","7.5","7.7","8.0","0.0","7.9","8.2","8.4","7.6","7.8","2.9","8.5","9.0","8.7","10.16"]}'
   database:
     disableModelExtraction: 0
   shaders:
